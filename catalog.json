@@ -1,6 +1,6 @@
 {
   "lab": "Neural Dynamics Lab",
-  "updated": "2026-11-10",
+  "updated": "2026-10-30",
   "projects": [
     {
       "project_id": "cort-sparsity",
@@ -17,8 +17,7 @@
       "code_dir": "projects/latent-dynamics",
       "venue": "Neural Computation 2026",
       "year": 2026,
-      "status": "published",
-      "code_url": "https://github.com/komal74784391-netizen/ndl-publications-board-3499a7f3/tree/main/projects/latent-dynamics"
+      "status": "published"
     },
     {
       "project_id": "synaptic-gating",
@@ -26,14 +25,13 @@
       "code_dir": "projects/synaptic-gating",
       "venue": "PLOS Computational Biology 2026",
       "year": 2026,
-      "status": "published",
-      "code_url": "https://github.com/komal74784391-netizen/ndl-publications-board-3499a7f3/tree/main/projects/synaptic-gating"
+      "status": "published"
     },
     {
       "project_id": "adaptive-gain",
       "title": "Adaptive Gain Control in Spiking Neural Networks",
       "code_dir": "projects/adaptive-gain",
-      "venue": "CNS 2026",
+      "venue": "Preprint (bioRxiv)",
       "year": 2026,
       "status": "published"
     }
