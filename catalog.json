@@ -1,0 +1,39 @@
+{
+  "lab": "Neural Dynamics Lab",
+  "updated": "2026-10-30",
+  "projects": [
+    {
+      "project_id": "cort-sparsity",
+      "title": "Cortical Sparsity Priors for Population Coding",
+      "repository": "ndl-cortical-sparsity-3499a7f3",
+      "venue": "Journal of Computational Neuroscience 2026",
+      "year": 2026,
+      "status": "published",
+      "code_url": "https://github.com/komal74784391-netizen/ndl-cortical-sparsity-3499a7f3"
+    },
+    {
+      "project_id": "latent-dynamics",
+      "title": "Latent Dynamics Probes for Recurrent Neural Codes",
+      "repository": "ndl-latent-dynamics-3499a7f3",
+      "venue": "Neural Computation 2026",
+      "year": 2026,
+      "status": "published"
+    },
+    {
+      "project_id": "synaptic-gating",
+      "title": "Synaptic Credit Gating in Recurrent Circuits",
+      "repository": "ndl-synaptic-gating-3499a7f3",
+      "venue": "PLOS Computational Biology 2026",
+      "year": 2026,
+      "status": "published"
+    },
+    {
+      "project_id": "adaptive-gain",
+      "title": "Adaptive Gain Control in Spiking Neural Networks",
+      "repository": "ndl-adaptive-gain-3499a7f3",
+      "venue": "Preprint (bioRxiv)",
+      "year": 2026,
+      "status": "published"
+    }
+  ]
+}
