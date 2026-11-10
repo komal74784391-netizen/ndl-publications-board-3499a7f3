@@ -1,4 +1,6 @@
 # Neural Dynamics Lab - Publications Board
 
-This repository holds the machine-readable catalog for the lab's active projects.
-The canonical file is `catalog.json`.
+The canonical catalog is `catalog.json`.
+
+Each active project's code lives in its own folder under `projects/`, named after
+the project id.
